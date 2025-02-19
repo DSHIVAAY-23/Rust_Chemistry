@@ -1,0 +1,11 @@
+/data/Rust_Chemistry/Rust_API/target/debug/deps/libtime_macros_impl-a4ae35752885d5c7.so: /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-macros-impl-0.1.2/src/lib.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-macros-impl-0.1.2/src/date.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-macros-impl-0.1.2/src/ext.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-macros-impl-0.1.2/src/offset.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-macros-impl-0.1.2/src/time.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-macros-impl-0.1.2/src/time_crate/mod.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-macros-impl-0.1.2/src/time_crate/date.rs
+
+/data/Rust_Chemistry/Rust_API/target/debug/deps/time_macros_impl-a4ae35752885d5c7.d: /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-macros-impl-0.1.2/src/lib.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-macros-impl-0.1.2/src/date.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-macros-impl-0.1.2/src/ext.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-macros-impl-0.1.2/src/offset.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-macros-impl-0.1.2/src/time.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-macros-impl-0.1.2/src/time_crate/mod.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-macros-impl-0.1.2/src/time_crate/date.rs
+
+/home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-macros-impl-0.1.2/src/lib.rs:
+/home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-macros-impl-0.1.2/src/date.rs:
+/home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-macros-impl-0.1.2/src/ext.rs:
+/home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-macros-impl-0.1.2/src/offset.rs:
+/home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-macros-impl-0.1.2/src/time.rs:
+/home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-macros-impl-0.1.2/src/time_crate/mod.rs:
+/home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-macros-impl-0.1.2/src/time_crate/date.rs:

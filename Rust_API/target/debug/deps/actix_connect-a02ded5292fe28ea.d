@@ -1,0 +1,12 @@
+/data/Rust_Chemistry/Rust_API/target/debug/deps/libactix_connect-a02ded5292fe28ea.rmeta: /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-connect-2.0.0/src/lib.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-connect-2.0.0/src/connect.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-connect-2.0.0/src/connector.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-connect-2.0.0/src/error.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-connect-2.0.0/src/resolve.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-connect-2.0.0/src/service.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-connect-2.0.0/src/ssl/mod.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-connect-2.0.0/src/uri.rs
+
+/data/Rust_Chemistry/Rust_API/target/debug/deps/actix_connect-a02ded5292fe28ea.d: /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-connect-2.0.0/src/lib.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-connect-2.0.0/src/connect.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-connect-2.0.0/src/connector.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-connect-2.0.0/src/error.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-connect-2.0.0/src/resolve.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-connect-2.0.0/src/service.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-connect-2.0.0/src/ssl/mod.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-connect-2.0.0/src/uri.rs
+
+/home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-connect-2.0.0/src/lib.rs:
+/home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-connect-2.0.0/src/connect.rs:
+/home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-connect-2.0.0/src/connector.rs:
+/home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-connect-2.0.0/src/error.rs:
+/home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-connect-2.0.0/src/resolve.rs:
+/home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-connect-2.0.0/src/service.rs:
+/home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-connect-2.0.0/src/ssl/mod.rs:
+/home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-connect-2.0.0/src/uri.rs:
