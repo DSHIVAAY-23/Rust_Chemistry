@@ -1,0 +1,5 @@
+/data/Rust_Chemistry/my-redis/channels/target/debug/build/num-traits-74110bbc2c5e0843/build_script_build-74110bbc2c5e0843: /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-traits-0.2.19/build.rs
+
+/data/Rust_Chemistry/my-redis/channels/target/debug/build/num-traits-74110bbc2c5e0843/build_script_build-74110bbc2c5e0843.d: /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-traits-0.2.19/build.rs
+
+/home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-traits-0.2.19/build.rs:

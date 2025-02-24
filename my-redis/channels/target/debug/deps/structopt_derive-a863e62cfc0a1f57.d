@@ -1,0 +1,10 @@
+/data/Rust_Chemistry/my-redis/channels/target/debug/deps/libstructopt_derive-a863e62cfc0a1f57.so: /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/structopt-derive-0.4.18/src/lib.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/structopt-derive-0.4.18/src/attrs.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/structopt-derive-0.4.18/src/doc_comments.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/structopt-derive-0.4.18/src/parse.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/structopt-derive-0.4.18/src/spanned.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/structopt-derive-0.4.18/src/ty.rs
+
+/data/Rust_Chemistry/my-redis/channels/target/debug/deps/structopt_derive-a863e62cfc0a1f57.d: /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/structopt-derive-0.4.18/src/lib.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/structopt-derive-0.4.18/src/attrs.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/structopt-derive-0.4.18/src/doc_comments.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/structopt-derive-0.4.18/src/parse.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/structopt-derive-0.4.18/src/spanned.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/structopt-derive-0.4.18/src/ty.rs
+
+/home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/structopt-derive-0.4.18/src/lib.rs:
+/home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/structopt-derive-0.4.18/src/attrs.rs:
+/home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/structopt-derive-0.4.18/src/doc_comments.rs:
+/home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/structopt-derive-0.4.18/src/parse.rs:
+/home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/structopt-derive-0.4.18/src/spanned.rs:
+/home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/structopt-derive-0.4.18/src/ty.rs:
